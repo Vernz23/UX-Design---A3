@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c45168b4bc88d344a59cc668fc0c1dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Thunderland
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b03b83136b1fd6c428d1d8f18828b971, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

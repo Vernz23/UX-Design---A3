@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7d167f0f8b8b35a4e81ba84a84823306
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shadeon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b907f701e58de6a40a846278988bc5d1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
